@@ -93,7 +93,6 @@ print(out)'),
                  tabPanel("Outlook",includeMarkdown("outlook.md"))
 )
 
-# Define server logic required to draw a histogram
 server <- function(input, output) {
   
   output$value1<-renderPrint(eval(parse(text=texteval1())))
