@@ -1,0 +1,13 @@
+sentiment,description
+up,"Since yesterday, the price of XXX could experience a gain of YYY percent."
+up,The price of XXX increased by YYY percent.
+up,XXX-Investors could enjoy a rise by YYY percent.
+flat,XXX wandered sideways and changed its price only by TTT percent.
+flat,All quiet on the XXX front: Its price changed only by TTT percent
+flat,Is this a new stablecoin? The price of XXX changed only by TTT percent.
+down,XXX could not defend its recent highs and suffered a loss of YYY percent.
+down,A sad day for hodlers: XXX lost YYY percent.
+down,Investors in XXX were disappointed by a downturn for YYY percent.
+price,Currently the price sits at USD ZZZ.
+price,That leads to a price of USD ZZZ.
+price,What does that mean for the price? It sits at USD ZZZ.
